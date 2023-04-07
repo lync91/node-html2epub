@@ -7,8 +7,14 @@
   "bin": "index.js",
   "author": "Fabien Cazenave",
   "license": "MIT",
-  "keywords": [ "html", "epub", "ebook", "converter", "scraper" ],
-  "repository" : {
+  "keywords": [
+    "html",
+    "epub",
+    "ebook",
+    "converter",
+    "scraper"
+  ],
+  "repository": {
     "type": "git",
     "url": "git://github.com/fabi1cazenave/node-html2epub.git"
   },
